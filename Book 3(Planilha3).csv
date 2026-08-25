@@ -1,0 +1,4 @@
+id_medico,nome,crm,especialidade,telefone,email
+1,Dr. Roberto Mendes,CRM/SP 123456,Cardiologia,11944443333,roberto.mendes@clinica.com
+2,Dra. Patricia Lima,CRM/RJ 654321,Pediatria,21933332222,patricia.lima@clinica.com
+3,Dr. Fernando Rocha,CRM/MG 789101,Ortopedia,31922221111,fernando.rocha@clinica.com
